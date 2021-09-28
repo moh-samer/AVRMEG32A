@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Alex_21_IO.X
+PROJECTNAME=Alex21_Interfaces-main
 
 # Active Configuration
 DEFAULTCONF=default

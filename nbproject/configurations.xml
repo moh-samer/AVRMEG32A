@@ -13,6 +13,11 @@
                    displayName="Source Files"
                    projectFiles="true">
       <itemPath>main.c</itemPath>
+      <itemPath>config.h</itemPath>
+      <itemPath>Uart.c</itemPath>
+      <itemPath>Uart.h</itemPath>
+      <itemPath>Driver.c</itemPath>
+      <itemPath>Driver.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
